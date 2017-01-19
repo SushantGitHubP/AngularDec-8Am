@@ -1,0 +1,22 @@
+{
+  "name": "AngularDec-8Am",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushantGitHubP/AngularDec-8Am.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushantGitHubP/AngularDec-8Am/issues"
+  },
+  "homepage": "https://github.com/SushantGitHubP/AngularDec-8Am#readme"
+}
